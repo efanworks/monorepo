@@ -1,0 +1,19 @@
+{
+  "name": "dep-app",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "homepage": "",
+  "license": "ISC",
+  "author": "claytonzhuo <eafanzhuo@foxmail.com>",
+  "main": "lib/dep-app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/dep-app.test.js"
+  }
+}

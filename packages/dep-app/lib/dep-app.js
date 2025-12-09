@@ -3,5 +3,5 @@
 module.exports = depApp;
 
 function depApp() {
-  return "Hello from depApp";
+  return "Hello from depApp, Baby";
 }

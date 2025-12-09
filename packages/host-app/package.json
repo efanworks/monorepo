@@ -14,7 +14,8 @@
     "lib"
   ],
   "scripts": {
-    "test": "node ./__tests__/host-app.test.js"
+    "test": "node ./__tests__/host-app.test.js",
+    "start": "node lib/host-app.js"
   },
   "dependencies": {
     "@efanworks/dep-app": "^0.0.5",

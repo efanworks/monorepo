@@ -17,6 +17,7 @@
     "test": "node ./__tests__/host-app.test.js"
   },
   "dependencies": {
+    "@efanworks/dep-app": "^0.0.3",
     "react": "^19.2.1",
     "react-dom": "^19.2.1"
   },

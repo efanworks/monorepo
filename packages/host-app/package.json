@@ -1,6 +1,6 @@
 {
   "name": "@efanworks/host-app",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "homepage": "",
   "license": "ISC",
@@ -17,7 +17,7 @@
     "test": "node ./__tests__/host-app.test.js"
   },
   "dependencies": {
-    "@efanworks/dep-app": "^0.0.3",
+    "@efanworks/dep-app": "^0.0.4",
     "react": "^19.2.1",
     "react-dom": "^19.2.1"
   },

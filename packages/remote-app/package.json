@@ -14,12 +14,14 @@
     "lib"
   ],
   "scripts": {
-    "test": "node ./__tests__/remote-app.test.js"
+    "test": "node ./__tests__/remote-app.test.js",
+    "start": "node lib/remote-app.js"
   },
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
+    "@efanworks/dep-app": "^0.0.5",
     "lodash": "^4.17.21"
   }
 }

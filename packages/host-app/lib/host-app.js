@@ -1,7 +1,11 @@
-'use strict';
+"use strict";
 
-module.exports = hostApp;
+const depApp = require("@efanworks/dep-app");
+
+console.log(depApp());
 
 function hostApp() {
-  return 'Hello from hostApp';
+  return "Hello from hostApp";
 }
+
+module.exports = hostApp;

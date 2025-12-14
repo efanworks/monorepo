@@ -1,6 +1,6 @@
 {
   "name": "@efanworks/remote-app",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "> TODO: description",
   "homepage": "",
   "license": "ISC",
@@ -21,7 +21,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@efanworks/dep-app": "^0.0.7",
+    "@efanworks/dep-app": "^0.0.8",
     "lodash": "^4.17.21"
   },
   "gitHead": "d0726a2cc848d77e02fe2076d180379844f3c2cc"

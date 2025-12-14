@@ -1,6 +1,6 @@
 {
   "name": "@efanworks/host-app",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "> TODO: description",
   "homepage": "",
   "license": "ISC",
@@ -18,7 +18,7 @@
     "start": "node lib/host-app.js"
   },
   "dependencies": {
-    "@efanworks/dep-app": "^0.0.8",
+    "@efanworks/dep-app": "^0.0.9",
     "react": "^19.2.1",
     "react-dom": "^19.2.1"
   },
